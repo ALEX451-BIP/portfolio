@@ -1,2 +1,5 @@
-# portfolio
-Alex Javier Elias — Desarrollador freelance full-stack, San Juan Argentina.
+# Portfolio Alex Javier Elias
+
+Portafolio freelance full-stack.
+
+Ver en vivo: https://ALEX451-BIP.github.io/portfolio/
